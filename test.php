@@ -1,4 +1,3 @@
 <?php
-phpinfo();
-// ikka oli vaja
+echo 'Hello world';
 ?>
