@@ -1,4 +1,4 @@
 <?php
-//phpinfo();
-//pole vaja
+phpinfo();
+// ikka oli vaja
 ?>
